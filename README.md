@@ -19,15 +19,22 @@ Total Number of Road Accidents per 10,000 Vehicles (2016-2019): These columns no
 ## Key Performance Indicators (KPIs):
 
 Total Accidents Trend: Sum of accidents over the years for each state.
+
 Accident Rate per Lakh Population Trend: Average of total accidents per lakh population over the years.
+
 Accident Rate per 10,000 Vehicles Trend: Average of total accidents per 10,000 vehicles over the years.
+
 
 ## Features:
 
 Accident Trends Chart: Visualizes the trend of total accidents from 2016 to 2019 using a line chart.
+
 Top States/UTs by Accidents per Lakh Population: Displays a column chart showcasing the top states/UTs with the highest accidents per lakh population.
+
 Bottom States/UTs by Accidents per Lakh Population: Displays a column chart showcasing the Bottom states/UTs with the lowest accidents per lakh population.
+
 Top States/UTs by Accidents per 10,000 Vehicles: Presents a column chart highlighting the top states/UTs with the highest accidents per 10,000 vehicles.
+
 Bottom States/UTs by Accidents per 10,000 Vehicles: Presents a column chart highlighting the bottom states/UTs with the lowest accidents per 10,000 vehicles.
 
 ## Contributors:
